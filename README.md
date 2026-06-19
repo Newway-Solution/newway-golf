@@ -52,10 +52,10 @@ https://newwaysolution.vn/phan-mem-quan-ly-san-golf
 
 ## Giải pháp liên quan
 
-* Newway PMS
-* Newway Ticket
+* Newway PMS https://github.com/Newway-Solution/newway-pms
+* Newway Ticket https://github.com/Newway-Solution/newway-ticket
 * OTA Integration
-* Channel Manager
+* Channel Manager https://github.com/Newway-Solution/channel-manager
 
 Hotline: 0983 229 961
 
